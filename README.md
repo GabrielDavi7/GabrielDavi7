@@ -1,13 +1,12 @@
 <h1 align="center">Olá 👋, Meu nome é Gabriel Davi</h1>
 <h3 align="center">Estudante de Ciência da Computação.</h3>
 
-
 ---
 
 🚀 **Sobre Mim**
 
-- 🌱 Estudo **Ciência da Computação no IFNMG**.
-- 🏢 Colaboro no projeto **[Projeto-Integrador-IFNMG-ChatBot](https://github.com/Projeto-Integrador-IFNMG-ChatBot)**.
+- 🌱 Estudo **Ciência da Computação no IFNMG**.  
+- 🏢 Colaboro no projeto **[Projeto-Integrador-IFNMG-ChatBot](https://github.com/Projeto-Integrador-IFNMG-ChatBot)**.  
 - 📫 Você pode me encontrar em **gabrielbaiamota765@gmail.com**.
 
 ---
@@ -27,6 +26,9 @@
   </a>
   <a href="https://github.com/GabrielDavi7/Pesquisa-Operacional-Resolucao-de-Blocking-Flowshop" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielDavi7&repo=Pesquisa-Operacional-Resolucao-de-Blocking-Flowshop&theme=dracula&show_owner=true" alt="Pesquisa-Operacional-Resolucao-de-Blocking-Flowshop">
+  </a>
+  <a href="https://github.com/GabrielDavi7/Desafio-Contatos" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielDavi7&repo=Desafio-Contatos&theme=dracula&show_owner=true" alt="Desafio-Contatos">
   </a>
 </p>
 
