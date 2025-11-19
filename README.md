@@ -26,13 +26,6 @@
     <img src="https://img.shields.io/badge/-%E2%86%92%20Ver%20Todos%20os%20Reposit%C3%B3rios-blue?style=for-the-badge" alt="Ver Todos os Repositórios">
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/GabrielDavi7?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/-%E2%86%92%20Ver%20Todos%20os%20Reposit%C3%B3rios-blue?style=for-the-badge" alt="Ver Todos os Repositórios">
-  </a>
-</p>
-
 ---
 
 📫 **Entre em Contato**
