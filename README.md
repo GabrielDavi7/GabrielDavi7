@@ -22,14 +22,8 @@
   <a href="https://github.com/GabrielDavi7/Analise-de-dados-Covid" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielDavi7&repo=Analise-de-dados-Covid&theme=dracula&show_owner=true" alt="Analise-de-dados-Covid">
   </a>
-  <a href="https://github.com/GabrielDavi7/Projeto-Arquitetura-2---Medir-Distancia-Mapa" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielDavi7&repo=Projeto-Arquitetura-2---Medir-Distancia-Mapa&theme=dracula&show_owner=true" alt="Projeto-Arquitetura-2---Medir-Distancia-Mapa">
-  </a>
-  <a href="https://github.com/GabrielDavi7/Pesquisa-Operacional-Resolucao-de-Blocking-Flowshop" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielDavi7&repo=Pesquisa-Operacional-Resolucao-de-Blocking-Flowshop&theme=dracula&show_owner=true" alt="Pesquisa-Operacional-Resolucao-de-Blocking-Flowshop">
-  </a>
-  <a href="https://github.com/GabrielDavi7/Desafio-Contatos" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielDavi7&repo=Desafio-Contatos&theme=dracula&show_owner=true" alt="Desafio-Contatos">
+  <a href="https://github.com/GabrielDavi7?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/-%E2%86%92%20Ver%20Todos%20os%20Reposit%C3%B3rios-blue?style=for-the-badge" alt="Ver Todos os Repositórios">
   </a>
 </p>
 
