@@ -13,7 +13,9 @@
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDavi7&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="left" height="180em" src="https://raw.githubusercontent.com/geekygreek7/animated-pokemon-gifs/master/384.gif" alt="GIF do Rayquaza"/>
+  
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDavi7&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ## 📌 Meus Principais Projetos
