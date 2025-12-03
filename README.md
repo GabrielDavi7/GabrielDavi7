@@ -14,23 +14,6 @@
   <img height="180em" src="https://raw.githubusercontent.com/geekygreek7/animated-pokemon-gifs/master/384.gif" alt="GIF do Rayquaza"/>
 </p>
 
-## 📌 Meus Principais Projetos
-
-<a href="https://github.com/GabrielDavi7/RAG-para-pdfs" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielDavi7&repo=RAG-para-pdfs&theme=dracula&show_owner=true" alt="RAG-para-pdfs">
-</a>
-<a href="https://github.com/GabrielDavi7/Desafio-Contatos" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielDavi7&repo=Desafio-Contatos&theme=dracula&show_owner=true" alt="Desafio-Contatos">
-</a>
-<a href="https://github.com/GabrielDavi7/Analise-de-dados-Covid" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielDavi7&repo=Analise-de-dados-Covid&theme=dracula&show_owner=true" alt="Analise-de-dados-Covid">
-</a>
-<a href="https://github.com/GabrielDavi7/Pesquisa-Operacional-Resolucao-de-Blocking-Flowshop" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielDavi7&repo=Pesquisa-Operacional-Resolucao-de-Blocking-Flowshop&theme=dracula&show_owner=true" alt="Pesquisa-Operacional-Resolucao-de-Blocking-Flowshop">
-</a>
-<a href="https://github.com/GabrielDavi7/Projeto-Arquitetura-2---Medir-Distancia-Mapa" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielDavi7&repo=Projeto-Arquitetura-2---Medir-Distancia-Mapa&theme=dracula&show_owner=true" alt="Projeto-Arquitetura-2---Medir-Distancia-Mapa">
-</a>
 
 ---
 
