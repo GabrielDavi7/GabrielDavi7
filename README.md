@@ -13,6 +13,8 @@
 
 <p align="center">
   <img height="200em" src="https://raw.githubusercontent.com/geekygreek7/animated-pokemon-gifs/master/384.gif" alt="GIF do Rayquaza"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDavi7&layout=compact&theme=forest" alt="Top Langs"/>
 </p>
 
 ## 📌 Meus Principais Projetos
