@@ -12,7 +12,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDavi7&langs_count=6&title_color=00FF00&border_color=008000&bg_color=151515" alt="Estatísticas de Linguagens"/>
   <img height="200em" src="https://raw.githubusercontent.com/geekygreek7/animated-pokemon-gifs/master/384.gif" alt="GIF do Rayquaza"/>
 </p>
 
