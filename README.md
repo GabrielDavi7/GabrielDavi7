@@ -6,8 +6,6 @@
 🚀 **Sobre Mim**
 
 - 🌱 Estudo **Ciência da Computação no IFNMG**.  
-- 🏢 Colaboro no projeto **[Projeto-Integrador-IFNMG-ChatBot](https://github.com/Projeto-Integrador-IFNMG-ChatBot)**.  
-- 📫 Você pode me encontrar em **gabrielbaiamota765@gmail.com**.
 
 ---
 
