@@ -1,0 +1,38 @@
+name: Update Stats Image
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Roda todo dia à meia-noite
+  workflow_dispatch: # Permite rodar manualmente
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Download Stats Image
+        run: |
+          # Tenta baixar a imagem. Se falhar, tenta de novo (loop de 5 tentativas)
+          for i in {1..5}; do
+            curl -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDavi7&layout=compact&langs_count=6&title_color=D43546&text_color=FFFFFF&icon_color=008751&bg_color=151515&border_color=008751&hide_border=false&disable_animations=true"
+            
+            # Verifica se o arquivo baixado é valido (maior que 1KB)
+            if [ $(stat -c%s top-langs.svg) -gt 1024 ]; then
+              echo "Imagem baixada com sucesso!"
+              break
+            else
+              echo "Falha ao baixar (servidor ocupado). Tentando novamente..."
+              sleep 10
+            fi
+          done
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add top-langs.svg
+          git commit -m "Update stats image" || exit 0
+          git push
