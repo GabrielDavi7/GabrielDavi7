@@ -1,5 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" width="100%" height="25px">
-<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/db/Flag_of_North_Rhine-Westphalia.svg/2560px-Flag_of_North_Rhine-Westphalia.svg.png" width="100%" height="25px"><br>
 
 <h1 align="center">Olá 👋, Meu nome é Gabriel Davi</h1>
 <h3 align="center">Estudante de Ciência da Computação</h3>
