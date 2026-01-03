@@ -15,7 +15,8 @@
   <img src="https://skillicons.dev/icons?i=python,react,nodejs,ts,cpp,tailwind,postgres,git&theme=dark" alt="My Skills" />
 
   <br><br>
-
+<h3>📊 Linguagens</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDavi7&layout=compact&langs_count=6&title_color=D43546&text_color=FFFFFF&icon_color=008751&bg_color=151515&border_color=008751&hide_border=false" alt="Top Langs" />
   <img height="220em" src="https://raw.githubusercontent.com/geekygreek7/animated-pokemon-gifs/master/384.gif" alt="GIF do Rayquaza"/>
 
   <br><br>
