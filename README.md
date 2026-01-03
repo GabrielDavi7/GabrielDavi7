@@ -4,12 +4,13 @@
 
 <div align="center">
   
-  <img height="220em" src="https://raw.githubusercontent.com/geekygreek7/animated-pokemon-gifs/master/384.gif" alt="GIF do Rayquaza"/>
+  <img src="https://raw.githubusercontent.com/geekygreek7/animated-pokemon-gifs/master/384.gif" height="100" alt="Rayquaza GIF">
 
   <h1>Gabriel Davi</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=008751&center=true&vCenter=true&width=435&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Python+%7C+RAG+%7C+Fullstack;Explorando+Novas+Tecnologias" alt="Typing SVG" />
 
   <br><br>
+
   <h3>🛠️ Tecnologias e Ferramentas</h3>
   <img src="https://skillicons.dev/icons?i=python,react,nodejs,ts,cpp,tailwind,postgres,git&theme=dark" alt="My Skills" />
 
@@ -34,7 +35,7 @@
 
   <br><br>
 
-  <img src="https://github.com/GabrielDavi7/GabrielDavi7/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/GabrielDavi7/GabrielDavi7/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
 
   <br><br>
 
