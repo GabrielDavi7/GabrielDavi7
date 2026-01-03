@@ -27,4 +27,4 @@
 
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/db/Flag_of_North_Rhine-Westphalia.svg" width="100%" height="25px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" width="100%" height="25px">
