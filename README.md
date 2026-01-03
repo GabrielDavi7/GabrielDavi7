@@ -5,20 +5,30 @@
 
 🚀 **Sobre Mim**
 
-- 🌱 Estudo **Ciência da Computação no IFNMG**.  
+- 🌱 Estudo **Ciência da Computação no IFNMG**.
 
 ---
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDavi7&layout=compact&langs_count=7&title_color=00FF00&border_color=008000&bg_color=151515"/>
-  <img height="180em" src="https://raw.githubusercontent.com/geekygreek7/animated-pokemon-gifs/master/384.gif" alt="GIF do Rayquaza"/>
-</p>
+<div align="center">
 
+<img src="https://via.placeholder.com/800x4/CE1126/CE1126.png" height="4px" width="100%">
+<img src="https://via.placeholder.com/800x4/FFFFFF/FFFFFF.png" height="4px" width="100%">
+<img src="https://via.placeholder.com/800x4/008751/008751.png" height="4px" width="100%">
+
+<br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDavi7&layout=compact&langs_count=7&title_color=00FF00&border_color=008000&bg_color=151515"/>
+<img height="180em" src="https://raw.githubusercontent.com/geekygreek7/animated-pokemon-gifs/master/384.gif" alt="GIF do Rayquaza"/>
+<br><br>
+
+<img src="https://via.placeholder.com/800x4/CE1126/CE1126.png" height="4px" width="100%">
+<img src="https://via.placeholder.com/800x4/FFFFFF/FFFFFF.png" height="4px" width="100%">
+<img src="https://via.placeholder.com/800x4/008751/008751.png" height="4px" width="100%">
+
+</div>
 
 ---
-
 
 📫 **Entre em Contato**
 <p align="left">
-  <a href="https://br.linkedin.com/in/gabrieldavimota" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gabriel Davi Mota no LinkedIn"/></a>  <a href="mailto:gabrielbaiamota765@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gabrielbaiamota765@gmail.com"/></a>
+  <a href="https://br.linkedin.com/in/gabrieldavimota" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gabriel Davi Mota no LinkedIn"/></a>  <a href="mailto:gabrielbaiamota765@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gabrielbaiamota765@gmail.com"/></a>
 </p>
