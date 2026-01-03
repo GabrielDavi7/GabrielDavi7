@@ -23,7 +23,10 @@
   <h3>📫 Entre em Contato</h3>
   <a href="https://br.linkedin.com/in/gabrieldavimota" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gabriel Davi Mota no LinkedIn"/></a>
   <a href="mailto:gabrielbaiamota765@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gabrielbaiamota765@gmail.com"/></a>
-
+  
+<br>
+<img src="https://github.com/GabrielDavi7/GabrielDavi7/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
+<br>
 </div>
 
 <br>
