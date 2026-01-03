@@ -11,24 +11,16 @@
 
 <div align="center">
 
-<a href="#">
-<img src="https://placehold.co/1000x6/D43546/D43546.png" width="100%" height="6px"/>
-<img src="https://placehold.co/1000x6/FFFFFF/FFFFFF.png" width="100%" height="6px"/>
-<img src="https://placehold.co/1000x6/008751/008751.png" width="100%" height="6px"/>
-</a>
+<img src="https://placehold.co/1000x6/D43546/D43546.png" width="100%" height="6px"/><img src="https://placehold.co/1000x6/FFFFFF/FFFFFF.png" width="100%" height="6px"/><img src="https://placehold.co/1000x6/008751/008751.png" width="100%" height="6px"/>
 
-<br>
+<br><br>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDavi7&layout=compact&langs_count=7&title_color=00FF00&border_color=008000&bg_color=151515"/>
 <img height="180em" src="https://raw.githubusercontent.com/geekygreek7/animated-pokemon-gifs/master/384.gif" alt="GIF do Rayquaza"/>
 
 <br><br>
 
-<a href="#">
-<img src="https://placehold.co/1000x6/008751/008751.png" width="100%" height="6px"/>
-<img src="https://placehold.co/1000x6/FFFFFF/FFFFFF.png" width="100%" height="6px"/>
-<img src="https://placehold.co/1000x6/D43546/D43546.png" width="100%" height="6px"/>
-</a>
+<img src="https://placehold.co/1000x6/008751/008751.png" width="100%" height="6px"/><img src="https://placehold.co/1000x6/FFFFFF/FFFFFF.png" width="100%" height="6px"/><img src="https://placehold.co/1000x6/D43546/D43546.png" width="100%" height="6px"/>
 
 </div>
 
