@@ -18,6 +18,10 @@
   <img height="180em" src="https://raw.githubusercontent.com/geekygreek7/animated-pokemon-gifs/master/384.gif" alt="GIF do Rayquaza"/>
 </div>
 
+<div align="center">
+  <h3>🛠️ Tecnologias e Ferramentas</h3>
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,ts,cpp,tailwind,postgres,git&theme=dark" alt="My Skills" />
+</div>
 ---
 
 📫 **Entre em Contato**
