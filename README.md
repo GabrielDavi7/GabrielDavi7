@@ -11,16 +11,16 @@
 
 <div align="center">
 
-<img src="https://placehold.co/1000x6/D43546/D43546.png" width="100%" height="6px"/><img src="https://placehold.co/1000x6/FFFFFF/FFFFFF.png" width="100%" height="6px"/><img src="https://placehold.co/1000x6/008751/008751.png" width="100%" height="6px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" width="100%" height="20px" style="display: block; margin: 0;">
 
-<br><br>
+<br>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDavi7&layout=compact&langs_count=7&title_color=00FF00&border_color=008000&bg_color=151515"/>
 <img height="180em" src="https://raw.githubusercontent.com/geekygreek7/animated-pokemon-gifs/master/384.gif" alt="GIF do Rayquaza"/>
 
 <br><br>
 
-<img src="https://placehold.co/1000x6/008751/008751.png" width="100%" height="6px"/><img src="https://placehold.co/1000x6/FFFFFF/FFFFFF.png" width="100%" height="6px"/><img src="https://placehold.co/1000x6/D43546/D43546.png" width="100%" height="6px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/db/Flag_of_North_Rhine-Westphalia.svg" width="100%" height="20px" style="display: block; margin: 0;">
 
 </div>
 
