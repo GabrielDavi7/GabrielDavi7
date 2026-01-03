@@ -15,16 +15,16 @@ jobs:
 
       - name: Download Stats Image
         run: |
-          # Tenta baixar a imagem. Se falhar, tenta de novo (loop de 5 tentativas)
+          # Tenta baixar a imagem. Loop de 5 tentativas.
           for i in {1..5}; do
             curl -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDavi7&layout=compact&langs_count=6&title_color=D43546&text_color=FFFFFF&icon_color=008751&bg_color=151515&border_color=008751&hide_border=false&disable_animations=true"
             
-            # Verifica se o arquivo baixado é valido (maior que 1KB)
+            # Verifica se o arquivo é valido (> 1KB)
             if [ $(stat -c%s top-langs.svg) -gt 1024 ]; then
               echo "Imagem baixada com sucesso!"
               break
             else
-              echo "Falha ao baixar (servidor ocupado). Tentando novamente..."
+              echo "Falha no servidor. Tentando novamente..."
               sleep 10
             fi
           done
@@ -33,6 +33,10 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # COMANDO NOVO: Puxa suas alterações do README antes de tentar salvar a imagem
+          git pull origin main --no-edit
+          
           git add top-langs.svg
           git commit -m "Update stats image" || exit 0
           git push
