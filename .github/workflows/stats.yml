@@ -15,16 +15,20 @@ jobs:
 
       - name: Download Stats Image
         run: |
-          # Tenta baixar a imagem. Loop de 5 tentativas.
+          echo "Iniciando download..."
+          
+          # Tenta baixar 5 vezes se der erro
           for i in {1..5}; do
-            curl -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDavi7&layout=compact&langs_count=6&title_color=D43546&text_color=FFFFFF&icon_color=008751&bg_color=151515&border_color=008751&hide_border=false&disable_animations=true"
+            # O segredo: -A "Mozilla/5.0" finge ser um navegador para não ser bloqueado
+            curl -L -A "Mozilla/5.0" -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDavi7&layout=compact&langs_count=6&title_color=D43546&text_color=FFFFFF&icon_color=008751&bg_color=151515&border_color=008751&hide_border=false&disable_animations=true"
             
-            # Verifica se o arquivo é valido (> 1KB)
-            if [ $(stat -c%s top-langs.svg) -gt 1024 ]; then
-              echo "Imagem baixada com sucesso!"
+            # VERIFICAÇÃO DE SEGURANÇA:
+            # Confere se o arquivo baixado realmente começa com o código de imagem "<svg"
+            if grep -q "<svg" top-langs.svg; then
+              echo "✅ Sucesso! Imagem válida baixada."
               break
             else
-              echo "Falha no servidor. Tentando novamente..."
+              echo "⚠️ Erro: O servidor retornou lixo. Tentando de novo em 10s..."
               sleep 10
             fi
           done
@@ -34,7 +38,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # COMANDO NOVO: Puxa suas alterações do README antes de tentar salvar a imagem
+          # Puxa alterações para evitar conflito
           git pull origin main --no-edit
           
           git add top-langs.svg
