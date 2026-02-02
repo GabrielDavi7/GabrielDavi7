@@ -34,9 +34,6 @@
 
 <div align="center">
 
-  <h3>📊 Estatísticas</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDavi7&layout=compact&langs_count=8&title_color=D43546&text_color=FFFFFF&icon_color=008751&bg_color=151515&border_color=008751&hide_border=false" alt="Top Langs" />
-
   <br><br>
 
   <img src="https://raw.githubusercontent.com/GabrielDavi7/GabrielDavi7/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
