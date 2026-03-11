@@ -35,6 +35,27 @@
 
 <br><br>
 
+### 🚀 Projetos em Destaque
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📚 RAG para Documentos Acadêmicos</h4>
+      <p>Sistema de busca semântica para normas do IFNMG. Focado em análise comparativa de modelos de <b>Embeddings</b> (MiniLM, SBERT, BERT) para otimizar a recuperação de dados institucionais.</p>
+      <code>Python</code> <code>LangChain</code> <code>PyTorch</code> <code>Gemma-2b</code>
+      <br><br>
+      <a href="https://github.com/GabrielDavi7/RAG-para-pdfs"><b>Ver Repositório →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📍 A* Route Finder (OSM)</h4>
+      <p>Algoritmo de busca informada utilizando dados reais do <b>OpenStreetMap</b>. Implementação de <b>A-Star (A*)</b> com heurística Euclidiana para roteamento urbano otimizado em Montes Claros.</p>
+      <code>Python</code> <code>OSMnx</code> <code>NetworkX</code> <code>Matplotlib</code>
+      <br><br>
+      <a href="https://github.com/GabrielDavi7/A-Star_Search_Algorithm"><b>Ver Repositório →</b></a>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/GabrielDavi7/GabrielDavi7/output/github-contribution-grid-snake.svg" width="80%" alt="Snake Animation" />
   
