@@ -1,12 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=100&section=header&text=Welcome%20to%20my%20Profile&fontSize=30" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="16px">
+  <br>
+  <h1 align="center">Olá, eu sou o Gabriel Davi! 👋</h1>
 </div>
-
-<br>
-
-<div align="center">
-  
-  <h1>Gabriel Davi</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=008751&center=true&vCenter=true&width=450&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Python+%7C+RAG+%7C+IA+%7C+Fullstack;Explorando+Novas+Tecnologias" alt="Typing SVG" />
 
 </div>
