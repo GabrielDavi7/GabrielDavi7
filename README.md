@@ -37,41 +37,47 @@
 
 ### 🚀 Projetos em Destaque
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📚 RAG para Documentos Acadêmicos</h4>
-      <p>Sistema de busca semântica para normas do IFNMG. Focado em análise comparativa de <b>Embeddings</b> (MiniLM, SBERT) para otimizar a recuperação de dados.</p>
-      <code>Python</code> <code>LangChain</code> <code>PyTorch</code> <code>Gemma-2b</code>
-      <br><br>
-      <a href="https://github.com/GabrielDavi7/RAG-para-pdfs"><b>Ver Repositório →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📍 A* Route Finder (OSM)</h4>
-      <p>Algoritmo de busca informada utilizando dados reais do <b>OpenStreetMap</b>. Implementação de <b>A-Star (A*)</b> para roteamento urbano otimizado.</p>
-      <code>Python</code> <code>OSMnx</code> <code>NetworkX</code> <code>Matplotlib</code>
-      <br><br>
-      <a href="https://github.com/GabrielDavi7/A-Star_Search_Algorithm"><b>Ver Repositório →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧠 Fullstack Contact Manager</h4>
-      <p>Aplicação robusta com <b>CRUD completo</b>, paginação e validação rigorosa com Zod. Foco em boas práticas de <b>Spec Engineering</b> e módulos modernos.</p>
-      <code>Node.js</code> <code>React</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Zod</code>
-      <br><br>
-      <a href="https://github.com/GabrielDavi7/Desafio-Contatos"><b>Ver Repositório →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📊 Data Science: COVID-19 Analysis</h4>
-      <p>Análise preditiva de fatores de risco para intubação. Inclui <b>EDA</b> profunda, limpeza de dados e modelagem de classificação para insights médicos.</p>
-      <code>Python</code> <code>Pandas</code> <code>Scikit-Learn</code> <code>Seaborn</code>
-      <br><br>
-      <a href="https://colab.research.google.com/drive/1Irt56fRHGlgX5p0kUjvSp07wsYOt0w9i?usp=sharing"><b>Ver Notebook (Colab) →</b></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; text-align: left;">
 
+  <div style="flex: 1; min-width: 300px; margin-bottom: 20px;">
+    <h4>📚 RAG para Documentos Acadêmicos</h4>
+    <p>Sistema de busca semântica para normas do IFNMG. Focado em análise comparativa de <b>Embeddings</b> (MiniLM, SBERT) para otimizar a recuperação de dados.</p>
+    <code>Python</code> <code>LangChain</code> <code>PyTorch</code> <code>Gemma-2b</code>
+    <br><br>
+    <a href="https://github.com/GabrielDavi7/RAG-para-pdfs"><b>Ver Repositório →</b></a>
+  </div>
+
+  <div style="flex: 1; min-width: 300px; margin-bottom: 20px;">
+    <h4>📍 A* Route Finder (OSM)</h4>
+    <p>Algoritmo de busca informada utilizando dados reais do <b>OpenStreetMap</b>. Implementação de <b>A-Star (A*)</b> para roteamento urbano otimizado.</p>
+    <code>Python</code> <code>OSMnx</code> <code>NetworkX</code> <code>Matplotlib</code>
+    <br><br>
+    <a href="https://github.com/GabrielDavi7/A-Star_Search_Algorithm"><b>Ver Repositório →</b></a>
+  </div>
+
+  </div>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; text-align: left;">
+
+  <div style="flex: 1; min-width: 300px; margin-bottom: 20px;">
+    <h4>🧠 Fullstack Contact Manager</h4>
+    <p>Aplicação robusta com <b>CRUD completo</b>, paginação e validação rigorosa com Zod. Foco em boas práticas de <b>Spec Engineering</b>.</p>
+    <code>Node.js</code> <code>React</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Zod</code>
+    <br><br>
+    <a href="https://github.com/GabrielDavi7/Desafio-Contatos"><b>Ver Repositório →</b></a>
+  </div>
+
+  <div style="flex: 1; min-width: 300px; margin-bottom: 20px;">
+    <h4>📊 Data Science: COVID-19 Analysis</h4>
+    <p>Análise preditiva de fatores de risco para intubação. Inclui <b>EDA</b> profunda, limpeza de dados e modelagem de classificação para insights médicos.</p>
+    <code>Python</code> <code>Pandas</code> <code>Scikit-Learn</code> <code>Seaborn</code>
+    <br><br>
+    <a href="https://colab.research.google.com/drive/1Irt56fRHGlgX5p0kUjvSp07wsYOt0w9i?usp=sharing"><b>Ver Notebook (Colab) →</b></a>
+  </div>
+
+  </div>
+</div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/GabrielDavi7/GabrielDavi7/output/github-contribution-grid-snake.svg" width="80%" alt="Snake Animation" />
   
