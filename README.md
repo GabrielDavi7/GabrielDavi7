@@ -78,6 +78,8 @@
 
   </div>
 </div>
+  </div>
+</div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/GabrielDavi7/GabrielDavi7/output/github-contribution-grid-snake.svg" width="80%" alt="Snake Animation" />
   
