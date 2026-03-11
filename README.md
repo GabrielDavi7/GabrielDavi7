@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-3920-4340-ab9d-3a5385953930.gif" width="100%" height="150px" style="object-fit: cover; border-radius: 10px;">
-  
   <br>
-
   <h1>Gabriel Davi</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=008751&center=true&vCenter=true&width=450&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Python+%7C+RAG+%7C+IA+%7C+Fullstack" alt="Typing SVG" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%" height="8px">
+</div>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=008751&center=true&vCenter=true&width=450&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Python+%7C+RAG+%7C+IA+%7C+Fullstack;Transformando+dados+em+solu%C3%A7%C3%B5es" alt="Typing SVG" />
 </div>
 
