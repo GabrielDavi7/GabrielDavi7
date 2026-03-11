@@ -1,13 +1,13 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" width="100%" height="25px">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=100&section=header&text=Welcome%20to%20my%20Profile&fontSize=30" width="100%">
+</div>
 
 <br>
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/geekygreek7/animated-pokemon-gifs/master/384.gif" height="130" alt="Rayquaza GIF">
-
   <h1>Gabriel Davi</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=008751&center=true&vCenter=true&width=435&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Python+%7C+RAG+%7C+Fullstack;Explorando+Novas+Tecnologias" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=008751&center=true&vCenter=true&width=450&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Python+%7C+RAG+%7C+IA+%7C+Fullstack;Explorando+Novas+Tecnologias" alt="Typing SVG" />
 
 </div>
 
@@ -17,26 +17,35 @@
 
 <div align="center">
   <h3>🛠️ Tecnologias e Ferramentas</h3>
-  <img src="https://skillicons.dev/icons?i=python,react,nodejs,ts,cpp,tailwind,postgres,git&theme=dark" alt="My Skills" />
-</div>
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,ts,cpp,tailwind,postgres,git,fastapi&theme=dark" alt="My Skills" />
+  </div>
 
 <br>
 
 <h3>⚡ Sobre Mim</h3>
 <p align="left">
-  🎓 Graduando em <b>Ciência da Computação no IFNMG</b>.<br>
-  💻 Desenvolvedor focado em <b>Python, IA Generativa (RAG) e Fullstack</b>.<br>
-  🚀 Atualmente estudando arquitetura de software e otimização de sistemas.<br>
-  🎯 Busco criar soluções que unem performance e boa experiência de usuário.
+  🎓 Graduando em **Ciência da Computação no IFNMG**.
+  <br>
+  💻 Desenvolvedor focado em **Python (Backend), IA Generativa (RAG)** e ecossistema **Fullstack (Node/React)**.
+  <br>
+  🚀 Atualmente pesquisando arquiteturas de **Retrieval-Augmented Generation** para otimização de busca de informações.
+  <br>
+  🎯 Busco criar soluções escaláveis que unem performance técnica e excelente experiência de usuário.
 </p>
 
 <br>
 
 <div align="center">
+  <h3>📈 Estatísticas do GitHub</h3>
+  <imgsrc="https://github-readme-stats.vercel.app/api?username=GabrielDavi7&show_icons=true&theme=tokyonight&count_private=true" alt="Gabriel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDavi7&layout=compact&theme=tokyonight&langs_count=6" alt="Most Used Languages" />
+</div>
 
-  <br><br>
+<br><br>
 
-  <img src="https://raw.githubusercontent.com/GabrielDavi7/GabrielDavi7/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/GabrielDavi7/GabrielDavi7/output/github-contribution-grid-snake.svg" width="80%" alt="Snake Animation" />
 
   <br><br>
 
@@ -52,4 +61,6 @@
 
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" width="100%" height="25px">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=50&section=footer" width="100%">
+</div>
