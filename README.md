@@ -30,7 +30,6 @@
 
 <div align="center">
   <h3>📈 Estatísticas do GitHub</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielDavi7&show_icons=true&theme=tokyonight&count_private=true" alt="Gabriel's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDavi7&layout=compact&theme=tokyonight&langs_count=6" alt="Most Used Languages" />
 </div>
 
