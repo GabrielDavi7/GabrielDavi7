@@ -37,16 +37,16 @@
 
 ### 🚀 Projetos em Destaque
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
+<table width="100%" style="border-collapse: collapse; border: none; background-color: transparent;">
+  <tr style="border: none; background-color: transparent;">
+    <td width="50%" valign="top" style="border: none; background-color: transparent; padding: 10px;">
       <h4>📚 RAG para Documentos Acadêmicos</h4>
       <p>Sistema de busca semântica para normas do IFNMG. Focado em análise comparativa de <b>Embeddings</b> (MiniLM, SBERT) para otimizar a recuperação de dados.</p>
       <code>Python</code> <code>LangChain</code> <code>PyTorch</code> <code>Gemma-2b</code>
       <br><br>
       <a href="https://github.com/GabrielDavi7/RAG-para-pdfs"><b>Ver Repositório →</b></a>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border: none; background-color: transparent; padding: 10px;">
       <h4>📍 A* Route Finder (OSM)</h4>
       <p>Algoritmo de busca informada utilizando dados reais do <b>OpenStreetMap</b>. Implementação de <b>A-Star (A*)</b> para roteamento urbano otimizado.</p>
       <code>Python</code> <code>OSMnx</code> <code>NetworkX</code> <code>Matplotlib</code>
@@ -54,15 +54,15 @@
       <a href="https://github.com/GabrielDavi7/A-Star_Search_Algorithm"><b>Ver Repositório →</b></a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
+  <tr style="border: none; background-color: transparent;">
+    <td width="50%" valign="top" style="border: none; background-color: transparent; padding: 10px;">
       <h4>🧠 Fullstack Contact Manager</h4>
       <p>Aplicação robusta com <b>CRUD completo</b>, paginação e validação rigorosa com Zod. Foco em boas práticas de <b>Spec Engineering</b> e módulos modernos.</p>
       <code>Node.js</code> <code>React</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Zod</code>
       <br><br>
       <a href="https://github.com/GabrielDavi7/Desafio-Contatos"><b>Ver Repositório →</b></a>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border: none; background-color: transparent; padding: 10px;">
       <h4>📊 Data Science: COVID-19 Analysis</h4>
       <p>Análise preditiva de fatores de risco para intubação. Inclui <b>EDA</b> profunda, limpeza de dados e modelagem de classificação para insights médicos.</p>
       <code>Python</code> <code>Pandas</code> <code>Scikit-Learn</code> <code>Seaborn</code>
